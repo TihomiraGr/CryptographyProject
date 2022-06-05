@@ -1,0 +1,15 @@
+C:\CryptographyProject\FrequencyAnalysis\FrequencyAnalysis\bin\Debug\net6.0\FrequencyAnalysis.exe
+C:\CryptographyProject\FrequencyAnalysis\FrequencyAnalysis\bin\Debug\net6.0\FrequencyAnalysis.deps.json
+C:\CryptographyProject\FrequencyAnalysis\FrequencyAnalysis\bin\Debug\net6.0\FrequencyAnalysis.runtimeconfig.json
+C:\CryptographyProject\FrequencyAnalysis\FrequencyAnalysis\bin\Debug\net6.0\FrequencyAnalysis.dll
+C:\CryptographyProject\FrequencyAnalysis\FrequencyAnalysis\bin\Debug\net6.0\ref\FrequencyAnalysis.dll
+C:\CryptographyProject\FrequencyAnalysis\FrequencyAnalysis\bin\Debug\net6.0\FrequencyAnalysis.pdb
+C:\CryptographyProject\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\FrequencyAnalysis.csproj.AssemblyReference.cache
+C:\CryptographyProject\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\FrequencyAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\CryptographyProject\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\FrequencyAnalysis.AssemblyInfoInputs.cache
+C:\CryptographyProject\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\FrequencyAnalysis.AssemblyInfo.cs
+C:\CryptographyProject\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\FrequencyAnalysis.csproj.CoreCompileInputs.cache
+C:\CryptographyProject\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\FrequencyAnalysis.dll
+C:\CryptographyProject\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\ref\FrequencyAnalysis.dll
+C:\CryptographyProject\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\FrequencyAnalysis.pdb
+C:\CryptographyProject\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\FrequencyAnalysis.genruntimeconfig.cache
